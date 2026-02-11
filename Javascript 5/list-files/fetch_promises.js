@@ -1,5 +1,5 @@
 
-fetch(`https://api.spacexdata.com/v5/launches/latestttt`)
+fetch(`https://api.spacexdata.com/v5/launches/latest`)
     .then((response) => {
         if (response.ok) {
             return response.json()

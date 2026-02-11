@@ -1,6 +1,6 @@
 {
   "name": "list-files",
-  "module": "main.js",
+  "module": "read-dir.js",
   "type": "module",
   "private": true,
   "dependencies": {
